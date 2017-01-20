@@ -44,6 +44,12 @@ li {
 }
 
 .header {
+	background-image: url("Fractal-Wolf.jpeg");
+  height: 400px;
+  background-position: center center;
+}
+
+.footer {
 	background-image: url(https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjd7tLdz9HRAhXIRyYKHXugBhMQjRwIBw&url=http%3A%2F%2Fhdpic.org%2Ffractal-wolf-beautiful-background-great-free-picture%2F&psig=AFQjCNFzVatoSmvg2DX93z5UGPzcsGtySg&ust=1485032614784871);
   height: 400px;
   background-position: center center;
