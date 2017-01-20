@@ -10,6 +10,8 @@ body {
 .container {
   max-width: 600px;
   margin: 0 auto;
+  text-align: center;
+  border-radius: 75%;
 }
 
 h1, h2 {
@@ -31,4 +33,18 @@ img {
 a.btn:hover {
   background:#ffa800;
   color:#000;
+}
+
+li {
+  border-bottom: 1px solid #E4BB97;
+  list-style: none;
+  margin: 100px 0px;
+  padding-bottom: 60px;
+  list-style-type: square;
+}
+
+.header {
+	background-image: url(https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjd7tLdz9HRAhXIRyYKHXugBhMQjRwIBw&url=http%3A%2F%2Fhdpic.org%2Ffractal-wolf-beautiful-background-great-free-picture%2F&psig=AFQjCNFzVatoSmvg2DX93z5UGPzcsGtySg&ust=1485032614784871);
+  height: 400px;
+  background-position: center center;
 }
