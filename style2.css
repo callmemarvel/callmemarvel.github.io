@@ -3,7 +3,7 @@
 }
 
 body {
-	background: #000000; 
+	background: #AC2832; 
 	padding: 40px;
 }
 
@@ -13,7 +13,7 @@ body {
 }
 
 h1, h2 {
-    color: white;
+    color:darkgrey;
     text-align: left;
     text-transform: uppercase;
 }
