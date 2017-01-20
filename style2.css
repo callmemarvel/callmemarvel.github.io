@@ -3,7 +3,7 @@
 }
 
 body {
-	background: #000000; 
+	background-color: #000000; 
 	padding: 40px;
 }
 
@@ -29,8 +29,8 @@ img {
 }
 
 a.btn:hover {
-  background:#ffa800;
-  color:#000;
+  background:#FF6347;
+  color: #BDB76B;
 }
 
 li {
