@@ -52,7 +52,7 @@ li {
 	background-image: url("Images/Fractal-Wolf.jpg");
   height: 400px;
   background-position: center;
-  text-align: middle;
+  vertical-align: middle 
 }
 
 .footer {
